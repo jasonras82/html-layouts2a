@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  height: 95%;
+  min-width: 95%;
+  margin: 0;
+  background-color: #d3d3d3;
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+  font-size: 14px;
+}
+
+.top-container {
+  background-color: white;
+  margin: 15px 30px;
+}
+
+.top-p {
+  /*color: black;*/
+  padding: 20px;
+}
+
+.red-button {
+  color: white;
+  height: 35px;
+  width: 120px;
+  background-color: #c90606;
+  display: inline-block;
+  margin: 0 2.5px 20px 20px;
+  font-size: 20px;
+  padding: 3px;
+  text-align: center;
+  border: grey 1px solid;
+}
+/*.red-button h3 {
+  color: blue;
+}*/
+
+.blue-button {
+  color: white;
+  height: 35px;
+  width: 120px;
+  background-color: blue;
+  display: inline-block;
+  margin: 0 0 20px 2.5px;
+  font-size: 20px;
+  padding: 3px;
+  text-align: center;
+  border: grey 1px solid;
+}
+
+.bottom-container {
+  padding-top: 15px;
+  background-color: white;
+  margin: 15px 30px;
+}
+
+.insert-image {
+  background-color: grey;
+  color: white;
+  height: 250px;
+  font-size: 30px;
+  text-align: center;
+  margin: 20px 20px 0 20px;
+  padding: 100px;
+
+}
+
+.bottom-p {
+  padding: 20px 20px 40px 20px;
+  /*margin: -14px;*/
+}
+
+.footer {
+  background-color: grey;
+  width: 100%;
+  height: 50px;
+  /*position: fixed;*/
+  color: white;
+  line-height: 50px;
+  text-align: right;
+}
+
+.Apple {
+  display: inline-block;
+
+}
+
+.Google {
+  display: inline-block;
+  padding-right: 60px;
+  padding-left: 30px;
+}
