@@ -29,6 +29,7 @@ header div {
   padding: 40px 5px 50px 40px;
   width: 48%;
   display: inline-block;
+  /*position: absolute;*/
 }
 
 h1 {
